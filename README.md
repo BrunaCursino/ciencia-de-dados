@@ -1,2 +1,2 @@
 # ciencia-de-dados
-Exercícios da da oficina de ciência de dados
+Exercícios da oficina de ciência de dados
